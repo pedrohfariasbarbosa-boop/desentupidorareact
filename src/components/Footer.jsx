@@ -75,7 +75,7 @@ export default function Footer({ onNavigate }) {
         <div className="container">
           <div className="footer-grid">
             <div className="footer-brand">
-              <div className="logo-text">🔧 DESENT<span>UPRA</span></div>
+              <div className="logo-text">🔧 DESENTUPI<span>DORA</span></div>
               <p>
                 Desentupidora Residencial® — Atendimento 24h em Porto Alegre e Região Metropolitana.
                 Mais de 5.000 atendimentos realizados com qualidade e pontualidade.

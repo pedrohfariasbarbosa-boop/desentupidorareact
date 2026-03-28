@@ -101,7 +101,6 @@ const navItems = [
   { label: "Início", target: "hero" },
   { label: "Áreas", target: "areas" },
   { label: "Depoimentos", target: "depoimentos" },
-  { label: "Blog", target: "blog" },
   { label: "Contato", target: "contato" },
 ];
 
